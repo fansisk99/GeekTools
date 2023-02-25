@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37875249897",
+    "project_id": "geektools-39b5c",
+    "storage_bucket": "geektools-39b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37875249897:android:4c0d201925e69cc16f7678",
+        "android_client_info": {
+          "package_name": "com.example.geektools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37875249897-7t91p12n0l5362s550mi5rl4q10u74f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCazh9nj2VzHQdimEFhF3ij-i4K0Ry-qEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37875249897-7t91p12n0l5362s550mi5rl4q10u74f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
